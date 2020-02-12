@@ -8,7 +8,7 @@
 - Press Braketest Snooze (Blue button) to get 20min of free robot movement
 - Press the acknowledge button, STO light on the manipulator should turn green
 - Bring your CAN up (if not configured to do automatically https://github.com/PilzDE/pilz_robots#running-on-the-real-robot)
-- Make sure your PC can talk to the PSS vie modbus (i.e. try to ping 192.168.0.10)
+- Make sure your PC can talk to the PSS via modbus (i.e. try to ping 192.168.0.10)
 - Run your roslaunch
 
 ## Switch operation mode
